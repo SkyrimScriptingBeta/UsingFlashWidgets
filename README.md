@@ -1,7 +1,7 @@
 # _Using Flash Widgets!_
 
-> Uses [`xmake`][] as build system.
-> Also requires [`pyro`][] (should be installed in `PATH`).
+> Uses [`xmake`][] as build system.  
+> Also requires [`pyro`][] (should be installed in `PATH`).  
 > The `Scripts/Bindings` folder is for using [`BIND`][].
 
 [`xmake`]: https://xmake.io
